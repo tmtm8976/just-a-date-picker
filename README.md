@@ -2,7 +2,7 @@
 
 **Just a Date Picker** is a fully customizable React date picker component. It accepts and returns dates in the `yyyy-mm-dd` format, making it simple and intuitive to use.
 
-![Date Picker Preview](./assets/date-picker-preview.png)
+![Date Picker Preview](https://github.com/tmtm8976/just-a-date-picker/blob/main/assets/date-picker-preview.png)
 
 ## Features
 
